@@ -83,9 +83,11 @@ An iOS game currently available on the App Store.
 
 ## Fun Facts
 
-- Huge fan of Legoland and building servers to explore communication systems  
-- Experimenting with unique flavors like Gatorade replications  
-- Occasionally brainstorms tech-themed Halloween costumes  
+- Built servers for fun to explore communication systems.  
+- Experimenting with flavors at 7 Brew.  
+- Can spend hours diving into obscure telecom or app development quirks.  
+- Passionate about Bible study—chasing rabbits and discovering hidden diamonds the deeper you dig.  
+- Loves brainstorming ways technology can make life and business simpler.
 
 ---
 <!--
